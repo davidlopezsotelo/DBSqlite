@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this,"Registro insertado.",Toast.LENGTH_LONG).show()
         }else Toast.makeText(this,"Los campos deben estar completos.",Toast.LENGTH_LONG).show()
 
-//https://www.youtube.com/watch?v=V3nQEagwGTQ&list=PLCTD_CpMeEKQJiP5LPFF4x-1gIf-19LVe&index=2
+//git??
     }
 
 }
